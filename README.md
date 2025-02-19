@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m a university student who enrolled in the study program of his passion: Computer Science and Engineering.<br><br>On top of that, I am excited to build up a dynamic undergrad life full of knowledge and skills by making my presence in different extracurricular activities.<br><br>In a nutshell, I aim towards excellence in academics and beyond academics, creating a better me every second day.
+I’m a university student who enrolled in the study program of his passion: Computer Science and Engineering. <br><br>On top of that, I am excited to build up a dynamic undergrad life full of knowledge and skills by making my presence in different extracurricular activities. <br><br>In a nutshell, I aim towards excellence in academics and beyond academics, creating a better me every second day.
 
 
 ## 🌐 Socials:
